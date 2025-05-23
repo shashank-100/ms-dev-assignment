@@ -65,12 +65,7 @@ The app will open in your default web browser at http://localhost:8501
 ### 2. Why Synthetic Data?
 - **FII/DII Data**:
   - Real data requires NSE membership and API access
-  - Not available through public APIs
-  - Synthetic data demonstrates the model's logic
-- **Market Breadth**:
-  - Real calculation needs data for all NSE stocks
-  - Requires significant infrastructure
-  - Synthetic data shows the concept
+
 
 ### 3. Cash Allocation Logic
 The model recommends cash allocation (0-30%) based on:
