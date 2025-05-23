@@ -44,6 +44,14 @@ streamlit run app.py
 
 The app will open in your default web browser at http://localhost:8501
 
+## Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](Screenshot%202025-05-23%20at%204.30.45%20PM.png)
+
+### Market Indicators
+![Market Indicators](Screenshot%202025-05-23%20at%204.30.56%20PM.png)
+
 ## How It Works
 
 ### 1. Market Data Collection
