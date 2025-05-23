@@ -1,4 +1,6 @@
 # MSCapital - Market Liquidity Dashboard & Cash Allocation Tool
+<img width="1674" alt="Screenshot 2025-05-23 at 6 29 57 PM" src="https://github.com/user-attachments/assets/9165ac77-22bd-4e4e-8596-c80f149c8f4e" />
+<img width="1674" alt="Screenshot 2025-05-23 at 6 30 15 PM" src="https://github.com/user-attachments/assets/cd5bbca6-ac54-4ee0-ade4-2840e85f2568" />
 
 A comprehensive tool for monitoring market liquidity and guiding cash allocation in Indian equity portfolios. This dashboard provides insights into market conditions and helps investors make informed decisions about their cash positions.
 
